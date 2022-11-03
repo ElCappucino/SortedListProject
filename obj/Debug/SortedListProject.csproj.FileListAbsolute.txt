@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\SortedListProject\SortedListProject\obj\Debug\SortedListProject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SortedListProject\SortedListProject\obj\Debug\SortedListProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\SortedListProject\SortedListProject\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\SortedListProject\SortedListProject\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\SortedListProject\SortedListProject\obj\Debug\SortedListProject_MarkupCompile.cache
+C:\Users\Admin\source\repos\SortedListProject\SortedListProject\obj\Debug\SortedListProject_MarkupCompile.lref
+C:\Users\Admin\source\repos\SortedListProject\SortedListProject\bin\Debug\SortedListProject.exe.config
+C:\Users\Admin\source\repos\SortedListProject\SortedListProject\bin\Debug\SortedListProject.exe
+C:\Users\Admin\source\repos\SortedListProject\SortedListProject\bin\Debug\SortedListProject.pdb
+C:\Users\Admin\source\repos\SortedListProject\SortedListProject\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\SortedListProject\SortedListProject\obj\Debug\SortedListProject.g.resources
+C:\Users\Admin\source\repos\SortedListProject\SortedListProject\obj\Debug\SortedListProject.Properties.Resources.resources
+C:\Users\Admin\source\repos\SortedListProject\SortedListProject\obj\Debug\SortedListProject.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SortedListProject\SortedListProject\obj\Debug\SortedListProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SortedListProject\SortedListProject\obj\Debug\SortedListProject.exe
+C:\Users\Admin\source\repos\SortedListProject\SortedListProject\obj\Debug\SortedListProject.pdb
